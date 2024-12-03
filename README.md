@@ -1,7 +1,7 @@
 👋 Hi, I’m @ChakriSaiCharan Tummalapalli
 🎯 **DevOps Enthusiast | Cloud Practitioner | Automation Advocate**  
-⚙️ **Currently working on**: Scaling CI/CD pipelines and containerized deployments.  
-🌱 **Learning**: Latest tech. diving into Kubernetes, Terraform
+⚙️ **Currently working on**: Scaling CI/CD pipelines and containerized deployments    
+🌱 **Learning**: Latest tech. diving into Kubernetes, Terraform    
 📫 **Reach me**: chakrisaicharan116@gmail.com.
 
 <!---
